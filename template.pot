@@ -1,0 +1,1054 @@
+# Translations template for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-04-24 17:50+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+msgctxt "app_name"
+msgid "Origami Zoo"
+msgstr ""
+
+msgctxt "action_help"
+msgid "Instructions"
+msgstr ""
+
+msgctxt "action_about"
+msgid "About"
+msgstr ""
+
+#. Do not delete this part of string in your translations: "%1$s"
+#, c-format
+msgctxt "about_version"
+msgid "Version %1$s"
+msgstr ""
+
+msgctxt "about_copyright"
+msgid ""
+"© Copyright 2012 Mobile and Wireless Systems Lab of IT-park of "
+"Petrozavodsk State University (member of FRUCT association)."
+msgstr ""
+
+msgctxt "about_grant"
+msgid ""
+"The application is the part of grant KA179 of Karelia ENPI CBC programme,"
+" which is co-funded by the European Union, the Russian Federation and the"
+" Republic of Finland."
+msgstr ""
+
+msgctxt "about_source"
+msgid ""
+"Thanks Origami Fun (origami-fun.com) project for origami diagrams. \n"
+"\n"
+"Systembar tint. Copyright 2013 readyState Software Limited. Licensed "
+"under Apache 2.0 license"
+msgstr ""
+
+msgctxt "instruction_swipe"
+msgid "Swipe instructions left and right"
+msgstr ""
+
+msgctxt "ok"
+msgid "OK"
+msgstr ""
+
+#. Do not delete this part of string in your translations: "%1$d". Space
+#. character must be written as entity code
+#, c-format
+msgctxt "list_item_steps"
+msgid "Steps: %1$d"
+msgstr ""
+
+msgctxt "finished"
+msgid "Finished!"
+msgstr ""
+
+#. Space character must be written as entity code
+msgctxt "level"
+msgid "Comlpexity: "
+msgstr ""
+
+#. Instructions page
+msgctxt "inst_crease"
+msgid "Crease line"
+msgstr ""
+
+msgctxt "inst_valley_fold"
+msgid "Valley fold"
+msgstr ""
+
+msgctxt "inst_fold_in_direction"
+msgid "Fold in this direction"
+msgstr ""
+
+msgctxt "inst_fold_unfold"
+msgid "Fold and unfold"
+msgstr ""
+
+msgctxt "inst_mountain_fold"
+msgid "Mountain fold"
+msgstr ""
+
+msgctxt "inst_turn_over"
+msgid "Turn over"
+msgstr ""
+
+msgctxt "inst_rotate"
+msgid "Rotate"
+msgstr ""
+
+msgctxt "inst_blow_up"
+msgid "Blow up"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:0"
+msgid "Butterfly"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:1"
+msgid "Crane"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:2"
+msgid "Ladybug"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:3"
+msgid "Snapper"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:4"
+msgid "Talking Dog"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:5"
+msgid "Twirling Bird"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:6"
+msgid "Bird"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:7"
+msgid "Dragon Head"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:8"
+msgid "Flapping Bird"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:9"
+msgid "Horse"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:10"
+msgid "Jumping Frog"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:11"
+msgid "Owl"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:12"
+msgid "Pelican"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:13"
+msgid "Puffy Bunny"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:14"
+msgid "Sitting Dog"
+msgstr ""
+
+#. Following section represents strings for figures:             *
+#. names             * instructions for each figure
+#. Figures names
+msgctxt "figures_names:15"
+msgid "Tortoise"
+msgstr ""
+
+#. Bird
+msgctxt "bird_1"
+msgid "Start with your paper white side up. Fold in half, as shown. The open"
+msgstr ""
+
+msgctxt "bird_2"
+msgid "Fold the outside corners into the centre line, and crease well."
+msgstr ""
+
+msgctxt "bird_3"
+msgid "Fold the top triangle backwards."
+msgstr ""
+
+msgctxt "bird_4"
+msgid ""
+"Fold the corners of the model in toward the centre, crease well, then "
+"open again."
+msgstr ""
+
+msgctxt "bird_5"
+msgid ""
+"Bring the highlighted corner up and outward using the crease shown. Then "
+"bring the highlighted corner back down toward the centre line and "
+"flatten."
+msgstr ""
+
+msgctxt "bird_8"
+msgid ""
+"Repeat this step on the opposite corner… the model should now look like "
+"this."
+msgstr ""
+
+msgctxt "bird_9"
+msgid "Fold the outermost corners backwards on the angle shown and crease well."
+msgstr ""
+
+msgctxt "bird_10"
+msgid "Mountain fold the model in half. (Fold backwards)"
+msgstr ""
+
+msgctxt "bird_11"
+msgid "Rotate the model slightly so you can see the bird forming."
+msgstr ""
+
+msgctxt "bird_12"
+msgid "Make these creases and unfold."
+msgstr ""
+
+msgctxt "bird_13"
+msgid ""
+"Using these creases, inside reverse fold to make the head and the tail of"
+" the bird. If you have folded the feet at the correct angle (in step 7), "
+"the model should stand up. You can refold the feet if you need to."
+msgstr ""
+
+msgctxt "butterfly_2"
+msgid "Now Fold the Paper in half diagonally, both ways."
+msgstr ""
+
+msgctxt "butterfly_3"
+msgid "Fold all four corners into the centre and crease well."
+msgstr ""
+
+msgctxt "butterfly_5"
+msgid "Turn Over and Fold all four corners into the centre again."
+msgstr ""
+
+msgctxt "butterfly_7"
+msgid "Your creases should look like this. It looks complicated, but don't worry!"
+msgstr ""
+
+msgctxt "butterfly_8"
+msgid "Fold the outside edges into the centre line."
+msgstr ""
+
+msgctxt "butterfly_10"
+msgid ""
+"Holding each inside edge from the point at the centre, bring these edges "
+"out to the points shown."
+msgstr ""
+
+msgctxt "butterfly_11"
+msgid "Then, fold the top edge downwards and flatten."
+msgstr ""
+
+msgctxt "butterfly_13"
+msgid "Rotate the model, and repeat step 7."
+msgstr ""
+
+msgctxt "butterfly_16"
+msgid "Fold the top half backwards and flatten."
+msgstr ""
+
+msgctxt "butterfly_17"
+msgid "Fold down the front outside corners."
+msgstr ""
+
+msgctxt "butterfly_18"
+msgid "Fold these outside corners inward as shown."
+msgstr ""
+
+msgctxt "butterfly_19"
+msgid "Fold the butterfly in half."
+msgstr ""
+
+msgctxt "butterfly_20"
+msgid "Now fold the top layer backwards, at the angle shown."
+msgstr ""
+
+msgctxt "butterfly_21"
+msgid "And now fold the back wing backwards also at the same angle."
+msgstr ""
+
+msgctxt "butterfly_23"
+msgid "Open out. Your butterfly is complete!."
+msgstr ""
+
+#. Crane
+msgctxt "crane_1"
+msgid ""
+"Start with a square piece of paper, coloured side up. Fold the top corner"
+" of the paper down to the bottom corner. Crease and open again. Then fold"
+" the paper in half sideways."
+msgstr ""
+
+msgctxt "crane_2"
+msgid ""
+"Turn the paper over to the white side. Fold the paper in half, crease "
+"well and open, and then fold again in the other direction."
+msgstr ""
+
+msgctxt "crane_3"
+msgid ""
+"Using the creases you have made, Bring the top 3 corners of the model "
+"down to the bottom corner. Flatten model."
+msgstr ""
+
+msgctxt "crane_6"
+msgid "Fold top triangular flaps into the centre and unfold."
+msgstr ""
+
+msgctxt "crane_7"
+msgid "Fold top of model downwards, crease well and unfold."
+msgstr ""
+
+msgctxt "crane_8"
+msgid ""
+"Open the uppermost flap of the model, bringing it upwards and pressing "
+"the sides of the model inwards at the same time. Flatten down, creasing "
+"well."
+msgstr ""
+
+msgctxt "crane_11"
+msgid "Turn model over and repeat Steps 4–6 on the other side."
+msgstr ""
+
+msgctxt "crane_12"
+msgid "Fold top flaps into the centre."
+msgstr ""
+
+msgctxt "crane_14"
+msgid "Repeat on other side, so your model looks like this."
+msgstr ""
+
+msgctxt "crane_15"
+msgid "Fold both ‘legs’ of model up, crease very well, then unfold."
+msgstr ""
+
+msgctxt "crane_17"
+msgid "Inside Reverse Fold the “legs” along the creases you just made."
+msgstr ""
+
+msgctxt "crane_18"
+msgid "Inside Reverse Fold one side to make a head, then fold down the wings."
+msgstr ""
+
+#. Dragon head
+msgctxt "dragon_head_1"
+msgid ""
+"Start with a square piece of paper, coloured side up. Fold in half in 2 "
+"directions."
+msgstr ""
+
+msgctxt "dragon_head_2"
+msgid ""
+"Turn the paper over to the white side. Fold the paper in half, crease "
+"well and open, and then fold again in the other direction."
+msgstr ""
+
+msgctxt "dragon_head_3"
+msgid ""
+"Using the creases you have made, Bring the top 3 corners of the model "
+"down to the bottom corner. Flatten model."
+msgstr ""
+
+msgctxt "dragon_head_6"
+msgid "Fold the bottom corner upwards to the top corner."
+msgstr ""
+
+msgctxt "dragon_head_7"
+msgid "Fold the uppermost outer corners toward the centre line."
+msgstr ""
+
+msgctxt "dragon_head_8"
+msgid "Now Fold the top corner down."
+msgstr ""
+
+msgctxt "dragon_head_10"
+msgid "Turn model over and repeat steps 4–6 on the other side."
+msgstr ""
+
+msgctxt "dragon_head_14"
+msgid "Now the dragon’s head is folded, all you need to do is pop it open!"
+msgstr ""
+
+msgctxt "dragon_head_15"
+msgid "Open it out by gently pulling it apart from the sides, as shown."
+msgstr ""
+
+#. Flapping bird
+msgctxt "flapping_bird_1"
+msgid ""
+"Start with a square piece of paper, coloured side up. Fold in half twice "
+"as shown to create these creases."
+msgstr ""
+
+msgctxt "flapping_bird_2"
+msgid ""
+"Turn the paper over to the white side. Fold the paper in half, crease "
+"well and open, and then fold again in the other direction."
+msgstr ""
+
+msgctxt "flapping_bird_3"
+msgid ""
+"Using the creases you have made, Bring the top 3 corners of the model "
+"down to the bottom corner. Flatten model."
+msgstr ""
+
+msgctxt "flapping_bird_6"
+msgid "Fold top triangular flaps into the centre and unfold."
+msgstr ""
+
+msgctxt "flapping_bird_7"
+msgid "Fold top of model downwards, crease well and unfold."
+msgstr ""
+
+msgctxt "flapping_bird_8"
+msgid ""
+"Open the uppermost flap of the model, bringing it upwards and pressing "
+"the sides of the model inwards at the same time. Flatten down, creasing "
+"well."
+msgstr ""
+
+msgctxt "flapping_bird_11"
+msgid "Turn model over and repeat Steps 4–6 on the other side."
+msgstr ""
+
+msgctxt "flapping_bird_13"
+msgid "Fold “legs” upward along the outside edges, then open again."
+msgstr ""
+
+msgctxt "flapping_bird_16"
+msgid "Use the creases just made to inside reverse fold these parts."
+msgstr ""
+
+msgctxt "flapping_bird_18"
+msgid ""
+"Inside reverse fold the head, and fold down the wings as shown. Then "
+"partially open them up again."
+msgstr ""
+
+msgctxt "flapping_bird_20"
+msgid "To make the wings flap forward, pull the tail."
+msgstr ""
+
+#. Horse
+msgctxt "horse_1"
+msgid ""
+"Start with a square piece of paper, coloured side up. Fold the paper in "
+"half, crease well and open, and then fold again in the other direction."
+msgstr ""
+
+msgctxt "horse_2"
+msgid ""
+"Turn the paper over to the white side. Fold the paper in half, crease "
+"well and open, and then fold again in the other direction. Your creases "
+"should look like this."
+msgstr ""
+
+msgctxt "horse_3"
+msgid ""
+"Using the creases you have made, Bring the top 3 corners of the model "
+"down to the bottom corner. Flatten model."
+msgstr ""
+
+msgctxt "horse_6"
+msgid ""
+"Fold upper layer’s outside corners toward centre line, then fold the top "
+"downward along the crease shown. Unfold."
+msgstr ""
+
+msgctxt "horse_7"
+msgid "Cut only top layer up to the top crease."
+msgstr ""
+
+msgctxt "horse_8"
+msgid "Fold the “legs” upwards along the creases shown."
+msgstr ""
+
+msgctxt "horse_9"
+msgid "Fold these sections in half, toward the centre."
+msgstr ""
+
+msgctxt "horse_10"
+msgid "Fold these sections in half, toward the centre."
+msgstr ""
+
+msgctxt "horse_11"
+msgid ""
+"Turn model over and repeat steps 4–7 on other side. The model should now "
+"look like this."
+msgstr ""
+
+msgctxt "horse_12"
+msgid "Rotate model and make creases as shown. Unfold."
+msgstr ""
+
+msgctxt "horse_13"
+msgid "Inside Reverse Fold the head and the tail."
+msgstr ""
+
+msgctxt "horse_14"
+msgid "To make the horse do a somersault, sharply tap upwards under his tail."
+msgstr ""
+
+#. Jumping frog
+msgctxt "jumping_frog_1"
+msgid ""
+"Start with a rectangular sheet of paper, white side up. Fold it in half, "
+"and open out again."
+msgstr ""
+
+msgctxt "jumping_frog_2"
+msgid ""
+"Fold both top corners to the opposite edge of the paper. Your creases "
+"should look like this."
+msgstr ""
+
+msgctxt "jumping_frog_3"
+msgid ""
+"Where the diagonal creases meet in the middle, fold the paper backwards, "
+"crease well and open."
+msgstr ""
+
+msgctxt "jumping_frog_4"
+msgid ""
+"Hold the paper at the sides, bring these points down to the centre line, "
+"then flatten. The creases should do most of the work here!"
+msgstr ""
+
+msgctxt "jumping_frog_6"
+msgid "Fold the uppermost triangles up to the top point."
+msgstr ""
+
+msgctxt "jumping_frog_7"
+msgid "Fold sides in to the centre line."
+msgstr ""
+
+msgctxt "jumping_frog_8"
+msgid ""
+"Fold bottom of model upwards so the end sits in the centre of the top "
+"diamond."
+msgstr ""
+
+msgctxt "jumping_frog_10"
+msgid "Now fold the same part downwards, in half."
+msgstr ""
+
+msgctxt "jumping_frog_12"
+msgid ""
+"Turn over and your frog is finished! To make him jump, press down on his "
+"back as shown."
+msgstr ""
+
+#. Ladybug
+msgctxt "ladybug_1"
+msgid "Start with a square piece of paper, white side up. Fold in half."
+msgstr ""
+
+msgctxt "ladybug_2"
+msgid "Fold this triangle in half, crease well then open."
+msgstr ""
+
+msgctxt "ladybug_3"
+msgid ""
+"Fold the top 2 corners downwards, but not right to the centre line: leave"
+" a little gap."
+msgstr ""
+
+msgctxt "ladybug_5"
+msgid "Turn model over. Fold down top corner to the centre point of the model."
+msgstr ""
+
+msgctxt "ladybug_6"
+msgid "Now fold this corner upwards, and flatten."
+msgstr ""
+
+#. Owl
+msgctxt "owl_1"
+msgid ""
+"Start with a square piece of paper, coloured side up. Fold the top corner"
+" of the paper down to the bottom corner. Crease and open again. Then fold"
+" the paper in half sideways."
+msgstr ""
+
+msgctxt "owl_2"
+msgid ""
+"Turn the paper over to the white side. Fold the paper in half, crease "
+"well and open, and then fold again in the other direction."
+msgstr ""
+
+msgctxt "owl_3"
+msgid ""
+"Using the creases you have made, Bring the top 3 corners of the model "
+"down to the bottom corner. Flatten model."
+msgstr ""
+
+msgctxt "owl_6"
+msgid "Fold top triangular flaps into the centre and unfold."
+msgstr ""
+
+msgctxt "owl_7"
+msgid "Fold top of model downwards, crease well and unfold."
+msgstr ""
+
+msgctxt "owl_8"
+msgid ""
+"Open the uppermost flap of the model, bringing it upwards and pressing "
+"the sides of the model inwards at the same time. Flatten down, creasing "
+"well."
+msgstr ""
+
+msgctxt "owl_11"
+msgid "Turn model over and repeat Steps 4–6 on the other side."
+msgstr ""
+
+msgctxt "owl_12"
+msgid "Fold front flap down."
+msgstr ""
+
+msgctxt "owl_13"
+msgid "Fold back flap down."
+msgstr ""
+
+msgctxt "owl_14"
+msgid ""
+"On the top layer, fold the top corners in to the centre line, and repeat "
+"on back."
+msgstr ""
+
+msgctxt "owl_16"
+msgid ""
+"Form wing by lifting up from the inside, and twisting the wing forwards. "
+"Repeat for other wing."
+msgstr ""
+
+msgctxt "owl_18"
+msgid "Fold top of model down as shown."
+msgstr ""
+
+msgctxt "owl_19"
+msgid "Fold back up along crease shown."
+msgstr ""
+
+msgctxt "owl_20"
+msgid "Fold whole top down along crease shown."
+msgstr ""
+
+msgctxt "owl_21"
+msgid "Cut ONLY TOP layer, along the line shown."
+msgstr ""
+
+msgctxt "owl_22"
+msgid "Fold upwards to form feet."
+msgstr ""
+
+msgctxt "owl_24"
+msgid "Turn owl over and cut the top layer only as shown."
+msgstr ""
+
+msgctxt "owl_25"
+msgid "Turn back over and lift up the ears."
+msgstr ""
+
+msgctxt "pelican_2"
+msgid "Fold the outside corners into the centre line, and crease well."
+msgstr ""
+
+msgctxt "pelican_3"
+msgid "Fold into the centre once again."
+msgstr ""
+
+msgctxt "pelican_5"
+msgid ""
+"Turn model over and fold bottom corner up to the top corner. Crease very "
+"well."
+msgstr ""
+
+msgctxt "pelican_6"
+msgid "Fold in half."
+msgstr ""
+
+msgctxt "pelican_7"
+msgid "Rotate model."
+msgstr ""
+
+msgctxt "pelican_8"
+msgid "Raise the inside triangle upwards slowly, then flatten and crease well."
+msgstr ""
+
+msgctxt "pelican_10"
+msgid "Inside Reverse Fold the head along the crease shown."
+msgstr ""
+
+msgctxt "pelican_11"
+msgid ""
+"Fold each wing upward as shown, then open out slightly. The pelican will "
+"now rest on its wings and sit up."
+msgstr ""
+
+msgctxt "puffy_bunny_2"
+msgid ""
+"Turn the paper over and fold in half diagonally and in both directions. "
+"Crease well and open out once again."
+msgstr ""
+
+msgctxt "puffy_bunny_3"
+msgid ""
+"Holding the points shown, bring them both down to the centre point on the"
+" bottom line. Flatten model. This is called a waterbomb base."
+msgstr ""
+
+msgctxt "puffy_bunny_4"
+msgid ""
+"Holding the points shown, bring them both down to the centre point on the"
+" bottom line. Flatten model. This is called a waterbomb base."
+msgstr ""
+
+msgctxt "puffy_bunny_5"
+msgid ""
+"Holding the points shown, bring them both down to the centre point on the"
+" bottom line. Flatten model. This is called a waterbomb base."
+msgstr ""
+
+msgctxt "puffy_bunny_6"
+msgid "Fold front triangles in to centre line."
+msgstr ""
+
+msgctxt "puffy_bunny_7"
+msgid "Fold front triangles in to centre line."
+msgstr ""
+
+msgctxt "puffy_bunny_8"
+msgid "Fold edges to centre line."
+msgstr ""
+
+msgctxt "puffy_bunny_9"
+msgid "Fold front flaps of top triangles downwards, creasing well."
+msgstr ""
+
+msgctxt "puffy_bunny_10"
+msgid "Fold again, diagonally, then tuck into pockets."
+msgstr ""
+
+msgctxt "puffy_bunny_11"
+msgid "Fold again, diagonally, then tuck into pockets."
+msgstr ""
+
+msgctxt "puffy_bunny_12"
+msgid "Turn over and fold bottom corners in to centre."
+msgstr ""
+
+msgctxt "puffy_bunny_13"
+msgid "Fold front flap to the left."
+msgstr ""
+
+msgctxt "puffy_bunny_14"
+msgid "Crease front flap into toward centre line."
+msgstr ""
+
+msgctxt "puffy_bunny_15"
+msgid "Move top flap to the right."
+msgstr ""
+
+msgctxt "puffy_bunny_16"
+msgid "Move the next flap to the right."
+msgstr ""
+
+msgctxt "puffy_bunny_17"
+msgid "Crease top flap in toward centre line."
+msgstr ""
+
+msgctxt "puffy_bunny_18"
+msgid "Move top flap to the left."
+msgstr ""
+
+msgctxt "puffy_bunny_19"
+msgid "Fold top layers outward along creases shown."
+msgstr ""
+
+msgctxt "puffy_bunny_20"
+msgid "Open out the ears."
+msgstr ""
+
+msgctxt "puffy_bunny_21"
+msgid "Fold nose under to form crease shown. Then fold back again."
+msgstr ""
+
+msgctxt "puffy_bunny_22"
+msgid "To inflate bunny, blow into its nose!"
+msgstr ""
+
+#. Sitting dog
+msgctxt "sitting_dog_1"
+msgid "Start with white side up. Fold in half."
+msgstr ""
+
+msgctxt "sitting_dog_2"
+msgid "Fold to centre line."
+msgstr ""
+
+msgctxt "sitting_dog_3"
+msgid "Fold in half."
+msgstr ""
+
+msgctxt "sitting_dog_5"
+msgid "Crease as shown, flatten well, then open."
+msgstr ""
+
+msgctxt "sitting_dog_6"
+msgid "Using this crease, Outside Reverse fold as shown."
+msgstr ""
+
+msgctxt "sitting_dog_7"
+msgid "Crease as shown, and open."
+msgstr ""
+
+msgctxt "sitting_dog_8"
+msgid "Outside Reverse fold once again."
+msgstr ""
+
+msgctxt "sitting_dog_9"
+msgid ""
+"Fold part of neck. Crease well. ‘Sink’ this point by pressing on it to "
+"reverse the creases."
+msgstr ""
+
+msgctxt "sitting_dog_11"
+msgid "To make the nose, crease twice, then Inside Reverse fold each crease."
+msgstr ""
+
+msgctxt "sitting_dog_12"
+msgid "Inside Reverse fold once again to the end of the nose."
+msgstr ""
+
+msgctxt "sitting_dog_14"
+msgid ""
+"Crease well, twice, along the lines shown. Then Inside Reverse fold both "
+"to make the tail."
+msgstr ""
+
+msgctxt "sitting_dog_15"
+msgid "Fold the bottom part of both sides of the tail upwards toward the body."
+msgstr ""
+
+#. Snapper
+msgctxt "snapper_1"
+msgid ""
+"Start with a rectangular piece of paper, coloured side up. Fold in half, "
+"then open."
+msgstr ""
+
+msgctxt "snapper_2"
+msgid "Fold in half downwards."
+msgstr ""
+
+msgctxt "snapper_3"
+msgid "Bring corners in to centre line."
+msgstr ""
+
+msgctxt "snapper_4"
+msgid "Fold uppermost layer upwards do the same to the back. Crease well."
+msgstr ""
+
+msgctxt "snapper_5"
+msgid "Pull the sides out and flatten."
+msgstr ""
+
+msgctxt "snapper_6"
+msgid "Fold front layer up to top, then do the same at the back."
+msgstr ""
+
+msgctxt "snapper_7"
+msgid "Pull the sides apart and flatten."
+msgstr ""
+
+msgctxt "snapper_8"
+msgid "Gently pull the top parts of the model outwards, making a boat shape."
+msgstr ""
+
+msgctxt "snapper_9"
+msgid "Flatten well."
+msgstr ""
+
+msgctxt "snapper_10"
+msgid ""
+"Tuck the little centre triangle under one of the sides. Then bring the "
+"outside corners to meet together, letting the sides move outwards."
+msgstr ""
+
+msgctxt "snapper_12"
+msgid ""
+"Finished Snapper. To make it snap, hold as shown and press together. It "
+"looks especiallly good with eyes!"
+msgstr ""
+
+msgctxt "talking_dog_2"
+msgid "Fold the top corner down to the bottom corner."
+msgstr ""
+
+msgctxt "talking_dog_3"
+msgid "Fold the two top corners down to the points shown."
+msgstr ""
+
+msgctxt "talking_dog_4"
+msgid "Fold the uppermost layer of the bottom corner up a little way."
+msgstr ""
+
+msgctxt "talking_dog_5"
+msgid "Fold this layer up again, from the top of the triangle as shown."
+msgstr ""
+
+msgctxt "talking_dog_6"
+msgid ""
+"Add eyes and a nose to the dog’s face. If you like you can even add a "
+"tongue!"
+msgstr ""
+
+msgctxt "talking_dog_7"
+msgid ""
+"To make your dog talk, hold the model by the ears and move back and "
+"forwards shown by the arrows."
+msgstr ""
+
+msgctxt "tortoise_2"
+msgid "Now fold the top corner down to the bottom corner."
+msgstr ""
+
+msgctxt "tortoise_3"
+msgid "Fold the outside corners in to the centre line."
+msgstr ""
+
+msgctxt "tortoise_5"
+msgid "Fold these same triangles upwards to the top point."
+msgstr ""
+
+msgctxt "tortoise_7"
+msgid "Fold only the uppermost layers outwards as shown."
+msgstr ""
+
+msgctxt "tortoise_9"
+msgid "Cut ONLY the top layer up to the centre of the model."
+msgstr ""
+
+msgctxt "tortoise_10"
+msgid "Fold out the bottom flaps as you did in Step 5."
+msgstr ""
+
+msgctxt "tortoise_12"
+msgid "Fold the 2 sides in to the centre, and the top point downwards as shown."
+msgstr ""
+
+msgctxt "tortoise_13"
+msgid "Now fold up."
+msgstr ""
+
+msgctxt "tortoise_15"
+msgid "Turn Over, the tortoise is finished!."
+msgstr ""
+
+#. Twirling bird
+msgctxt "twirling_bird_1"
+msgid "Start with your paper color side up. Fold in half, as shown."
+msgstr ""
+
+msgctxt "twirling_bird_2"
+msgid "Fold in half again, crease and open."
+msgstr ""
+
+msgctxt "twirling_bird_3"
+msgid "Now fold top of model down past the baseline of the model."
+msgstr ""
+
+msgctxt "twirling_bird_4"
+msgid "Fold whole model in half."
+msgstr ""
+
+msgctxt "twirling_bird_6"
+msgid "Rotate model."
+msgstr ""
+
+msgctxt "twirling_bird_7"
+msgid ""
+"Fold down the top flap along this line. Then repeat the same thing on the"
+" flap behind."
+msgstr ""
+
+msgctxt "twirling_bird_8"
+msgid "Now fold the wings back upwards so they sit horizontally, as shown."
+msgstr ""
+
+msgctxt "twirling_bird_10"
+msgid ""
+"To make the Twirling bird fly, throw it like a paper plane. It will "
+"tumble in circles!"
+msgstr ""
+
