@@ -1,20 +1,21 @@
-# Dutch translations for PACKAGE.
+# Translations template for PROJECT.
 # Copyright (C) 2014 ORGANIZATION
-# This file is distributed under the same license as the PACKAGE project.
+# This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-05-02 10:42+0400\n"
+"POT-Creation-Date: 2014-04-24 17:50+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: nl <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((n == 1) ? 0 : 1)\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.11.0-rc1\n"
 "Generated-By: Babel 1.3\n"
 
 msgctxt "app_name"
@@ -76,9 +77,8 @@ msgid "Finished!"
 msgstr ""
 
 #. Space character must be written as entity code
-#, fuzzy
 msgctxt "level"
-msgid "Complexity: "
+msgid "Comlpexity: "
 msgstr ""
 
 #. Instructions page
@@ -1052,4 +1052,3 @@ msgid ""
 "To make the Twirling bird fly, throw it like a paper plane. It will "
 "tumble in circles!"
 msgstr ""
-
