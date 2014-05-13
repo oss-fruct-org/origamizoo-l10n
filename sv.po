@@ -1,24 +1,21 @@
-# Translations template for PROJECT.
+# Swedish translations for PACKAGE.
 # Copyright (C) 2014 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
+# This file is distributed under the same license as the PACKAGE project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-04-24 17:50+0400\n"
+"POT-Creation-Date: 2014-05-13 09:56+0400\n"
 "PO-Revision-Date: 2014-05-05 18:49+0400\n"
 "Last-Translator: Kattie.me <dea.yar@mail.ru>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: sv\n"
+"Language-Team: sv <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=((n == 1) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1399301389.0\n"
 
 msgctxt "app_name"
 msgid "Origami Zoo"
@@ -52,8 +49,8 @@ msgid ""
 " which is co-funded by the European Union, the Russian Federation and the"
 " Republic of Finland."
 msgstr ""
-"Applikationen är den del av bidrag KA179 av Karelen ENPI CBC-programmet, som "
-"samfinansieras av EU, Ryska federationen och Republiken Finland."
+"Applikationen är den del av bidrag KA179 av Karelen ENPI CBC-programmet, "
+"som samfinansieras av EU, Ryska federationen och Republiken Finland."
 
 msgctxt "about_source"
 msgid ""
@@ -64,8 +61,8 @@ msgid ""
 msgstr ""
 "Tack till Origami Fun (origami-fun.com) projekt för origami diagram. \n"
 "\n"
-"Systembar tint. Copyright 2013 readyState Software Limited. Licensed under "
-"Apache 2.0 license"
+"Systembar tint. Copyright 2013 readyState Software Limited. Licensed "
+"under Apache 2.0 license"
 
 msgctxt "instruction_swipe"
 msgid "Swipe instructions left and right"
@@ -87,8 +84,9 @@ msgid "Finished!"
 msgstr "Färdig!"
 
 #. Space character must be written as entity code
+#, fuzzy
 msgctxt "level"
-msgid "Comlpexity: "
+msgid "Complexity: "
 msgstr "Komplexitet:"
 
 #. Instructions page
@@ -1062,3 +1060,27 @@ msgid ""
 "To make the Twirling bird fly, throw it like a paper plane. It will "
 "tumble in circles!"
 msgstr ""
+
+msgctxt "gplay_description"
+msgid ""
+"Origami is a traditional Japanese art or technique of folding paper into "
+"a variety of decorative or representational forms, as of animals or "
+"flowers. In our application Origami Zoo you can find the most popular "
+"animals which you can make using only one sheet of paper. Each figure "
+"comes with clearly illustrated steps and instructions."
+msgstr ""
+
+msgctxt "promo_page_title"
+msgid "Description"
+msgstr ""
+
+msgctxt "promo_page_contact_us"
+msgid "Contact Us"
+msgstr ""
+
+msgctxt "promo_page_contact_content"
+msgid ""
+"We would love to hear your comments and questions. Please send them to "
+"portfolio@cs.karelia.ru."
+msgstr ""
+
