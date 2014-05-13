@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2014-04-24 17:50+0400\n"
-"PO-Revision-Date: 2014-05-01 12:52+0400\n"
+"PO-Revision-Date: 2014-05-05 18:49+0400\n"
 "Last-Translator: Kattie.me <dea.yar@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1398934332.0\n"
+"X-POOTLE-MTIME: 1399301389.0\n"
 
 msgctxt "app_name"
 msgid "Origami Zoo"
@@ -43,8 +43,8 @@ msgid ""
 "© Copyright 2012 Mobile and Wireless Systems Lab of IT-park of "
 "Petrozavodsk State University (member of FRUCT association)."
 msgstr ""
-"© Copyright 2012 Mobila och Trådlösa System Lab IT-park i Petrozavodsk State "
-"University (ledamot av FRUCT)."
+"© Copyright 2012 Mobila och Trådlösa System Lab IT-park i Petrozavodsk "
+"Staten Universitet (ledamot av FRUCT)."
 
 msgctxt "about_grant"
 msgid ""
@@ -114,43 +114,43 @@ msgstr ""
 
 msgctxt "inst_turn_over"
 msgid "Turn over"
-msgstr ""
+msgstr "Vända"
 
 msgctxt "inst_rotate"
 msgid "Rotate"
-msgstr ""
+msgstr "Roterar"
 
 msgctxt "inst_blow_up"
 msgid "Blow up"
-msgstr ""
+msgstr "Blåsa upp"
 
 #. Following section represents strings for figures:             *
 #. names             * instructions for each figure
 #. Figures names
 msgctxt "figures_names:0"
 msgid "Butterfly"
-msgstr ""
+msgstr "Fjäril"
 
 #. Following section represents strings for figures:             *
 #. names             * instructions for each figure
 #. Figures names
 msgctxt "figures_names:1"
 msgid "Crane"
-msgstr ""
+msgstr "Trana"
 
 #. Following section represents strings for figures:             *
 #. names             * instructions for each figure
 #. Figures names
 msgctxt "figures_names:2"
 msgid "Ladybug"
-msgstr ""
+msgstr "Nyckelpiga"
 
 #. Following section represents strings for figures:             *
 #. names             * instructions for each figure
 #. Figures names
 msgctxt "figures_names:3"
 msgid "Snapper"
-msgstr ""
+msgstr "Fisk"
 
 #. Following section represents strings for figures:             *
 #. names             * instructions for each figure
